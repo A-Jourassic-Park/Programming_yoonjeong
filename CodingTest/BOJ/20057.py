@@ -1,6 +1,6 @@
 # BOJ 20057 - 마법사 상어와 토네이도
 import sys
-sys.setrecursionlimit(10 ** 6)  #런타임 에러 해결을 위한 재귀함수 호출 횟수 확대
+sys.setrecursionlimit(10 ** 6)  # 백준 런타임 에러 해결을 위한 재귀함수 호출 횟수 확대
 
 N = int(input())
 
